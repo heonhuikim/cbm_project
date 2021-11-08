@@ -1,3 +1,0 @@
-# cbm_project
-
-Test
